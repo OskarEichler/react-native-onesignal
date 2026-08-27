@@ -1,7 +1,0 @@
-paths:
-  - src
-  - android/src/main/java
-  - .github/actions
-
-paths-ignore:
-  - 'examples/**/android/**'
